@@ -1,0 +1,20 @@
+{
+  "name": "hellogenerator",
+  "version": "1.0.0",
+  "main": "hellogenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tonaljs/chord": "^6.1.0",
+    "@tonaljs/midi": "^4.10.0",
+    "@tonaljs/note": "^4.11.0",
+    "@tonaljs/progression": "^4.9.0",
+    "chord-symbol": "^4.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
